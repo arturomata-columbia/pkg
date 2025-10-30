@@ -6,11 +6,10 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "Packaging technical analysis"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+    - Jesus Arturo Mata Marquez (jam2552)
+  repo-url: https://github.com/arturomata-columbia/pkg
   date: today
   page-footer:
     right: |
