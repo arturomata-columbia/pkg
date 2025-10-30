@@ -14,7 +14,7 @@
     "href": "data.html",
     "title": "2  Data",
     "section": "",
-    "text": "2.1 Description",
+    "text": "2.1 Missing value analysis\ndatabase with collection of data features - laboratory results, the features include: volume, dimensions, design and laboratory results will be masked appearing as test1, test2 etc. The analysis will not disclose the real data and insights but will show visually all the patterns and insights if they exist. ## Description",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data</span>"
     ]
