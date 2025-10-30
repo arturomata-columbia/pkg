@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Packaging technical analysis",
     "section": "",
-    "text": "1 Introduction\n#Technical analysis of database composed of the summary reports of laboratory testing for containers, all containers are different but the analysis are common to all of them, the expected result is to find patterns and insights that help to define the container features, classify the container based on them and connect those features to the laboratory results.",
+    "text": "1 Introduction\nTechnical analysis of database composed of the summary reports of laboratory testing for containers, all containers are different but the analysis are common to all of them, the expected result is to find patterns and insights that help to define the container features, classify the container based on them and connect those features to the laboratory results. I worked as packaging engineer 5 years and I’m familiar with the data collected in this technical database, and want to proof through viauls analysis the behavior of containers I know by experience.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
